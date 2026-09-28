@@ -1,0 +1,251 @@
+{
+  "version": 1,
+  "purpose": "Exact reviewed full-body source baseline; change only after visual review of replacement art.",
+  "images": {
+    "Frieren/production_adjust.png": {
+      "sha256": "bcb5d00603b4c19e4fc886c0ab99af11b03497b04eae0dff9af5aa6941040242",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_bookajar.png": {
+      "sha256": "9904a97961bec7374776bb49a51fbe4cd289957e4bbe2fa15d5347c11abe78b6",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_bookhalf.png": {
+      "sha256": "af508ac8d907549030c4cec3b24e89a2ac4a30d6462625f0083be0263481802f",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_cast.png": {
+      "sha256": "3239ba43fa866c77e67d81bf85cf6a3c94487cce57454cc13125cc8fa960fa8a",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_doze.png": {
+      "sha256": "017c8735651e11cb45dbc69d312a660f0f0499dec8354f45667b9a3c6702c16a",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_inspect.png": {
+      "sha256": "b5ac8efde0401e51400b04dc5f5894b570e7072e065169e1bd5055394e99030a",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_map.png": {
+      "sha256": "65f8da5cd9961b080bf476844c53a8ce8711f40a3dcc1fecc15a31681ef04dcb",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_neutral.png": {
+      "sha256": "91618bfe4f57375d0d08dba294b30c81326b111a688c14fd7636e5838aa8ab19",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_notice.png": {
+      "sha256": "5684980312932d90005d47df7382792c6da880b836b3e9cb422f987846bbec5b",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_pack.png": {
+      "sha256": "be64718335676d837709d5c9b43711b9bf81b16a4152a499b036ba29c050c7bd",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_read.png": {
+      "sha256": "c85da82d5bbca2760b6aa72c82d0d911afeabff574ab54c8c91f18d2aa8ca4f0",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_sitread.png": {
+      "sha256": "7d2d043dab1b4af145058939b17502512e6bccf34f84d29bef6de45b787b469b",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_sitstart.png": {
+      "sha256": "5dc124aa975e5102c092a77a8356e92f45e42fb7868e31e6ba23eeaf69de18b1",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_staff.png": {
+      "sha256": "238e5e80a03b3569e2707c5e70ba0477bfc19b8a2be52da1d8eacb52a8fba4a3",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_staffraise.png": {
+      "sha256": "3c2a20ab7c61bcea9f5f71ee18b91ee9274133ed30645a9ce0f30628d46d56a9",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_stretch.png": {
+      "sha256": "e9c9fa37c7bd869bcb4933ae756fa0f29cedbd1cbb24ad07ec6d748704f7f0ee",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_wake.png": {
+      "sha256": "044e2b7d398df800e836837bd26327f94607661004cd895c6fae4126118c589a",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Frieren/production_walk.png": {
+      "sha256": "03a11d4ac7fc83fefda79ada1d115bb20f367c4cb76aa86bb6851e318550f9e7",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_cape.png": {
+      "sha256": "792ff2434cc745050293520a51a93cf8881c7b1759e8c8758584da10adc7dbed",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_flower.png": {
+      "sha256": "b7fd1089634099e4fc15a32040e41ef1590596c1aa000f4c33ed95f0a1ee030f",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_greet.png": {
+      "sha256": "dd2b93792217f6eabbe851b364003ea46c503bb584f9a87078797cb18052606d",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_greetquarter.png": {
+      "sha256": "6afaef3b80c327e67e744ff4e6737d295c9f988fa44cb46d4561a04e74d13c0b",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_greetstart.png": {
+      "sha256": "9fbd5fcf6baf9d16f60652b6648a38eed0ed52dc70d43f9e263b172174f3591b",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_hero.png": {
+      "sha256": "36e8ba15a5258dc76ab1d0c72bf1d01d0a56bbc1f42b89ecf9df423a72b6cf46",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_kneel.png": {
+      "sha256": "74dc4ae34c78d6004b0527116236b4b5623f14ec188418bcc5e4196acbfda0e6",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_look.png": {
+      "sha256": "ad29ad7cc1d24c02dab8c037d271c109baec8f62eb8b2943f867a4bf33f52bde",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_neutral.png": {
+      "sha256": "f4f1b854f075637408f65dc9695adae8494f4da0618eb31679de537a2a3622f4",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_point.png": {
+      "sha256": "e04450952982015986ffb1ea6ce7cd22f926887cafc6c11d2e0c2507a4978094",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_read.png": {
+      "sha256": "008d1984c52f93d5440f0db38b906d275e10f4e733a35888d3c3379ff43796d4",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_rest.png": {
+      "sha256": "ffb1a645c399c081e78401679caa46f9a57f196b89c4bf98d387b180e4d41982",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_sit.png": {
+      "sha256": "95f7adc319384c19733ce185b202afbd930945f47979aef5291b25bb35d4f80c",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_sitstart.png": {
+      "sha256": "a5631777882a8cb0b4362c603bef3dcac813f4bd16fd8a6a7a9ada4582e7d4f1",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_swordcheck.png": {
+      "sha256": "b3a81f37bf8701832afaea8a2a9c0c034f38cbdb6b963b35d5ee075cf03cea56",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_swordpractice.png": {
+      "sha256": "0fe126ac331c02780d7c7e1b00a3591b3ec78a3e35f63f1d2e5a495df7c42847",
+      "pixels": [
+        1024,
+        1536
+      ]
+    },
+    "Himmel/production_walk.png": {
+      "sha256": "ef52687ccd6f0b9d9bcff47a0c358e7cf90752e205993a07a7cdebb4f964c0a1",
+      "pixels": [
+        1024,
+        1536
+      ]
+    }
+  }
+}

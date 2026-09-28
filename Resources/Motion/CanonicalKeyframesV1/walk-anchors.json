@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "canvas": {
+    "width": 512,
+    "height": 576
+  },
+  "actors": {
+    "himmel": {
+      "right": {
+        "nativeCanonicalBodyHeight": 486.0,
+        "torsoRootX": 296.0,
+        "footAnchorY": 544
+      },
+      "left": {
+        "nativeCanonicalBodyHeight": 477.5,
+        "torsoRootX": 232.0,
+        "footAnchorY": 544
+      }
+    },
+    "frieren": {
+      "right": {
+        "nativeCanonicalBodyHeight": 489.0,
+        "torsoRootX": 274.0,
+        "footAnchorY": 544
+      },
+      "left": {
+        "nativeCanonicalBodyHeight": 475.0,
+        "torsoRootX": 244.0,
+        "footAnchorY": 544
+      }
+    }
+  }
+}

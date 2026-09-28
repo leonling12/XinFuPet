@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "canvas": {
+    "width": 512,
+    "height": 576
+  },
+  "actors": {
+    "himmel": {
+      "sit": {
+        "files": [
+          "sit-0.png",
+          "sit-1.png",
+          "sit-2.png",
+          "sit-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "kneel": {
+        "files": [
+          "kneel-0.png",
+          "kneel-1.png",
+          "kneel-2.png",
+          "kneel-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "offer": {
+        "files": [
+          "offer-0.png",
+          "offer-1.png",
+          "offer-2.png",
+          "offer-3.png",
+          "offer-4.png",
+          "offer-5.png",
+          "offer-6.png",
+          "offer-7.png"
+        ],
+        "nativeCanonicalBodyHeight": 498.0,
+        "torsoRootX": 256.0,
+        "footAnchorY": 544.0
+      },
+      "cape": {
+        "files": [
+          "cape-0.png",
+          "cape-1.png",
+          "cape-2.png",
+          "cape-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "swordcheck": {
+        "files": [
+          "swordcheck-0.png",
+          "swordcheck-1.png",
+          "swordcheck-2.png",
+          "swordcheck-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "practice": {
+        "files": [
+          "practice-0.png",
+          "practice-1.png",
+          "practice-2.png",
+          "practice-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "hero": {
+        "files": [
+          "hero-0.png",
+          "hero-1.png",
+          "hero-2.png",
+          "hero-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "read": {
+        "files": [
+          "read-0.png",
+          "read-1.png",
+          "read-2.png",
+          "read-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "rest": {
+        "files": [
+          "rest-0.png",
+          "rest-1.png",
+          "rest-2.png",
+          "rest-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "look": {
+        "files": [
+          "look-0.png",
+          "look-1.png",
+          "look-2.png",
+          "look-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      },
+      "point": {
+        "files": [
+          "point-0.png",
+          "point-1.png",
+          "point-2.png",
+          "point-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 252.0,
+        "footAnchorY": 544.0
+      }
+    },
+    "frieren": {
+      "sit": {
+        "files": [
+          "sit-0.png",
+          "sit-1.png",
+          "sit-2.png",
+          "sit-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 544.0
+      },
+      "stretch": {
+        "files": [
+          "stretch-0.png",
+          "stretch-1.png",
+          "stretch-2.png",
+          "stretch-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 672.0,
+        "canvas": {
+          "width": 512,
+          "height": 704
+        }
+      },
+      "receive": {
+        "files": [
+          "receive-0.png",
+          "receive-1.png",
+          "receive-2.png",
+          "receive-3.png",
+          "receive-4.png",
+          "receive-5.png",
+          "receive-6.png",
+          "receive-7.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 544.0
+      },
+      "map": {
+        "files": [
+          "map-0.png",
+          "map-1.png",
+          "map-2.png",
+          "map-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 544.0
+      },
+      "inspect": {
+        "files": [
+          "inspect-0.png",
+          "inspect-1.png",
+          "inspect-2.png",
+          "inspect-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 544.0
+      },
+      "adjust": {
+        "files": [
+          "adjust-0.png",
+          "adjust-1.png",
+          "adjust-2.png",
+          "adjust-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 544.0
+      },
+      "pack": {
+        "files": [
+          "pack-0.png",
+          "pack-1.png",
+          "pack-2.png",
+          "pack-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 544.0
+      },
+      "notice": {
+        "files": [
+          "notice-0.png",
+          "notice-1.png",
+          "notice-2.png",
+          "notice-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 544.0
+      },
+      "doze": {
+        "files": [
+          "doze-0.png",
+          "doze-1.png",
+          "doze-2.png",
+          "doze-3.png"
+        ],
+        "nativeCanonicalBodyHeight": 490.0,
+        "torsoRootX": 266.0,
+        "footAnchorY": 544.0
+      }
+    }
+  },
+  "gesturePinchAnchors": {
+    "himmel.offer": {
+      "frame3": {
+        "x": 107.0,
+        "y": 215.0
+      },
+      "frame4": {
+        "x": 107.0,
+        "y": 215.0
+      }
+    },
+    "frieren.receive": {
+      "frame3": {
+        "x": 318.0,
+        "y": 160.0
+      },
+      "frame4": {
+        "x": 326.0,
+        "y": 158.0
+      },
+      "frame5": {
+        "x": 280.0,
+        "y": 163.0
+      }
+    }
+  },
+  "frameSHA256": {
+    "Motion/CanonicalKeyframesV1/frames/frieren/left-0.png": "cdefc4e0ad1206568a5038943ad85350ac6da7606b408667e106b9d4762663d5",
+    "Motion/CanonicalKeyframesV1/frames/frieren/left-1.png": "4d627371fe2af3c83c76f991d7aa93733ae0cdd1dbfbe2c62822a3df79c4b02e",
+    "Motion/CanonicalKeyframesV1/frames/frieren/left-2.png": "2090fedb120a4894607929ebe9e7021feb0c5b136f8a90bf43f0b9ca0bb6dea1",
+    "Motion/CanonicalKeyframesV1/frames/frieren/left-3.png": "eba2d3e4bf70f1b8152c89f0645b229352b76808206397e96b5ab4476a767583",
+    "Motion/CanonicalKeyframesV1/frames/frieren/receive-0.png": "a379f1f2b7ad233c22bb9bdf1a58f252ce4bcb8fc74306927d5128d2adb016c1",
+    "Motion/CanonicalKeyframesV1/frames/frieren/receive-1.png": "2830b18b373f847e52b36ab97830d77cda629970421930183e941eecdc878844",
+    "Motion/CanonicalKeyframesV1/frames/frieren/receive-2.png": "3735d41a33f49a608e733bd6e8bf2767e23d04e3e540b044a0778482d55ece21",
+    "Motion/CanonicalKeyframesV1/frames/frieren/receive-3.png": "cec775eadea856217e21ad1f1e984cff70068fd611fc379f0b781ca1fb9423d8",
+    "Motion/CanonicalKeyframesV1/frames/frieren/receive-4.png": "8f14c96ef82681b52562916624f05539f91e48d58671c5a61e0b0f3a6ee9b9d1",
+    "Motion/CanonicalKeyframesV1/frames/frieren/receive-5.png": "8dc3da771bc98ead0ef37a3a3c9ab22ba87042e213c0e6dccad3389463e95891",
+    "Motion/CanonicalKeyframesV1/frames/frieren/receive-6.png": "0dfa4a0bf5a09d38c1a43faf518483fd2d5351effffd56fb2bb5083f573f5cba",
+    "Motion/CanonicalKeyframesV1/frames/frieren/receive-7.png": "5208005346a536c60357077c3c4a6eb4bcdc473fdb8cc325f4f04812c3a428d2",
+    "Motion/CanonicalKeyframesV1/frames/frieren/right-0.png": "82744700f3c620be4291bcbc893527e5268e29f0e5eb05cd08208a71b7dad716",
+    "Motion/CanonicalKeyframesV1/frames/frieren/right-1.png": "141395c8f17a12a68525f4cc08ba1b4e267f0c4c32c6ffe8ef72802cc234da4a",
+    "Motion/CanonicalKeyframesV1/frames/frieren/right-2.png": "8b8412f87dfec672eaf2ac369a37b12b2f0958e242c56bf9e48e6161ade30cfd",
+    "Motion/CanonicalKeyframesV1/frames/frieren/right-3.png": "6b7bd1070796ca9aba067ff33c2cda137d7806f873266f26aaa4b0127d272fed",
+    "Motion/CanonicalKeyframesV1/frames/frieren/sit-0.png": "1da7cc5bdbf67a587d7ad9c0b89e39a962adb00bbfbb1145519829f0b9f45f39",
+    "Motion/CanonicalKeyframesV1/frames/frieren/sit-1.png": "ffbf33e34481f00f174ab3e91a9cf79150a18cecc58ba1625eaaafe93efae81f",
+    "Motion/CanonicalKeyframesV1/frames/frieren/sit-2.png": "de01322499bbbcd3c174e95c568ea007948d46f2d7d1e4f005f92c07541f14ba",
+    "Motion/CanonicalKeyframesV1/frames/frieren/sit-3.png": "d3b5ea77114c5b33d6ea78069ec7e61f21c62a86ccf752c9af97af4ce562d351",
+    "Motion/CanonicalKeyframesV1/frames/frieren/stretch-0.png": "fbb6b831d9f44fd20f0a27a7008b8ce7ca014211233178839839d844324df177",
+    "Motion/CanonicalKeyframesV1/frames/frieren/stretch-1.png": "903f01495d144dbf1839badcd13bafc68174091af23dd7d001ac1616cc219fd4",
+    "Motion/CanonicalKeyframesV1/frames/frieren/stretch-2.png": "c1555a8587be7c896223798bffdc4734927b1b3650a073ade2d6c3a1009966a6",
+    "Motion/CanonicalKeyframesV1/frames/frieren/stretch-3.png": "5ff5a8c960eecd69562fe179d2ccee37a4b34e8dbf517e453b4ed966b08f203d",
+    "Motion/CanonicalKeyframesV1/frames/himmel/kneel-0.png": "17fe8c0811cb4f6d6425b9cfb35e6db0ed980831b0f6f6b9022f4a01e9691147",
+    "Motion/CanonicalKeyframesV1/frames/himmel/kneel-1.png": "a7de08b1e7e75c4064a71470f50fddfee755d3ffd72baeb64e1f88f3c4c7ede0",
+    "Motion/CanonicalKeyframesV1/frames/himmel/kneel-2.png": "23a99e1cdf6fad2ab4b204b735149020d1d7028a1d86762f5f56170337478bbc",
+    "Motion/CanonicalKeyframesV1/frames/himmel/kneel-3.png": "cab439debb9279485576e19cc26ec7aa61979661a5f0ec596bcc7157d347f42f",
+    "Motion/CanonicalKeyframesV1/frames/himmel/left-0.png": "185f7d87b054a134ad82d80ba24b541676d6c75ffceef15cc571e443f13a7c63",
+    "Motion/CanonicalKeyframesV1/frames/himmel/left-1.png": "d2dbc8e2e12958ac26c4d7c8e686c4b1bd82c8f1d30a0d5acc06f626e374b424",
+    "Motion/CanonicalKeyframesV1/frames/himmel/left-2.png": "a9231d533258909e26011d7e7cd69dd9c294a162ebb16d2237ecab7047210c78",
+    "Motion/CanonicalKeyframesV1/frames/himmel/left-3.png": "dc73fccc4c0bc9987476ce8c0aa3e0a77995c004064f12f7c48cd05a6934f608",
+    "Motion/CanonicalKeyframesV1/frames/himmel/offer-0.png": "412b663c101b828470bedc024dc1f7131d9e9fb2d076d3de2b0d0b956edd1a9e",
+    "Motion/CanonicalKeyframesV1/frames/himmel/offer-1.png": "501b5f20f427478d317aae85afd06580ea924e71e90e01b3af83d8cdc0fc7621",
+    "Motion/CanonicalKeyframesV1/frames/himmel/offer-2.png": "9f9807dc3e3c10c7e77c578fe48f1d111e5fbfcf3aa2ed90adbfeda230d45751",
+    "Motion/CanonicalKeyframesV1/frames/himmel/offer-3.png": "780e8743bbc1256c23fe16975e9d2f2cbeb8fdd6c18e2f2baf0f71b8cf527fd9",
+    "Motion/CanonicalKeyframesV1/frames/himmel/offer-4.png": "575dae1aaaa83ff3031d75826ee2d5ad2eea22303bd0353c549c5b9035db4982",
+    "Motion/CanonicalKeyframesV1/frames/himmel/offer-5.png": "b49f31267e7489dec86048d1ad3d07d8acbe500cf2822c5b736e35da04ac3572",
+    "Motion/CanonicalKeyframesV1/frames/himmel/offer-6.png": "e9c6b4b1eeb1b60c20c5077af158067da824979ad82a033ea3b1b13e12619ae5",
+    "Motion/CanonicalKeyframesV1/frames/himmel/offer-7.png": "6c3b9a45073122b8f3d0fa7ad99c7f9ff386993fd647fa93666a72511422f667",
+    "Motion/CanonicalKeyframesV1/frames/himmel/right-0.png": "63f7d3d205661ec884c852dcc8dd4dac99ce89e2982cf15b2ea5a616d1faed04",
+    "Motion/CanonicalKeyframesV1/frames/himmel/right-1.png": "6f8bd70e73c66384cab158ddb984faed2aeb5b6354649f7fae5a5583f80b6e93",
+    "Motion/CanonicalKeyframesV1/frames/himmel/right-2.png": "b24f966cc0dd782c47599ec1ad610075d3886bd4a8aa3d0cfecc593632a40bb4",
+    "Motion/CanonicalKeyframesV1/frames/himmel/right-3.png": "9a370ec258db0ed93eae98b03aa816c8c333fe73f493b44850355ae417c5c1b1",
+    "Motion/CanonicalKeyframesV1/frames/himmel/sit-0.png": "4b71189c7582fc52b11075b44f6a43b3f5fb9e2cfa7a171e90b847aad185d194",
+    "Motion/CanonicalKeyframesV1/frames/himmel/sit-1.png": "32d72a4efad8305a16803d267c2115e569858f5d23807b82327d89759922360c",
+    "Motion/CanonicalKeyframesV1/frames/himmel/sit-2.png": "09d6c09abb9508f9e9ed56b72466772bfad6435d6e94eed201dc5dc573716c93",
+    "Motion/CanonicalKeyframesV1/frames/himmel/sit-3.png": "1363507390bc8d13c08cce5b20bbd94ffb061f7683e034e548b35e0dab0869b1",
+    "Motion/CanonicalKeyframesV1/frames/frieren/inspect-0.png": "b7e993cf307fea9dae5ee3e99c8bf8c5abeba94b83e15312e8d23eb8473181c1",
+    "Motion/CanonicalKeyframesV1/frames/frieren/inspect-1.png": "eb65e63b315355cbbd385ad42689aeed756ac958ab390279acebf2cae9cce987",
+    "Motion/CanonicalKeyframesV1/frames/frieren/inspect-2.png": "f9742fbdf85e7bdcd9bff38783cfa55b4711c88775c4f79fed6084c6f46a0d14",
+    "Motion/CanonicalKeyframesV1/frames/frieren/inspect-3.png": "f3a99aecd9615aaae3ccb7857d2fede0e912ff24d07a4e4ea9fb069ed2d3b7ee",
+    "Motion/CanonicalKeyframesV1/frames/frieren/map-0.png": "020d9f5be07f4db1b2e82d7692ccb98362e2e6c482e65e23bcb7d1a9cb2c371c",
+    "Motion/CanonicalKeyframesV1/frames/frieren/map-1.png": "9541b930c45f61868d1b99aa8de355abcf8bba7450f6c79e69db1b8f0f10c816",
+    "Motion/CanonicalKeyframesV1/frames/frieren/map-2.png": "09457360d01d875b75148c6945f8df9a8d519d408387706060d65c3bdd6d620c",
+    "Motion/CanonicalKeyframesV1/frames/frieren/map-3.png": "c01ce339a4074d1e32f16e540491cb12b38d170cf91210d0cff5334112a23030",
+    "Motion/CanonicalKeyframesV1/frames/frieren/adjust-0.png": "ebc1ad9e95ed6d9996634204fb8b5bd8f8477744924c72bd2dda5cb7c153c8b3",
+    "Motion/CanonicalKeyframesV1/frames/frieren/adjust-1.png": "cc275c6c1a20230d7a8ca97fb20353e8a4496e8467310b49af3e49386b18e5d7",
+    "Motion/CanonicalKeyframesV1/frames/frieren/adjust-2.png": "3f79d6f45ac5ac5aae2101b5076f876926135dd2f89eb05ad1f47757f273184f",
+    "Motion/CanonicalKeyframesV1/frames/frieren/adjust-3.png": "cb5a180c5022dc56d3ee51a460dc234e14f1cec50a996f5e04abe656d3765fa8",
+    "Motion/CanonicalKeyframesV1/frames/frieren/pack-0.png": "de928e892d3d3e4f510c1739bc4db47f6720e9c36aa0365dfd1e3b9ede4e6a04",
+    "Motion/CanonicalKeyframesV1/frames/frieren/pack-1.png": "5e3b63e2e3de33f44169ce7795c5b442320d269a6e87dd9157cc2fed3d86ca16",
+    "Motion/CanonicalKeyframesV1/frames/frieren/pack-2.png": "826d7d7fdcd2ca0213979679afe61ed6db6d9f1ca5694ffa6cd73e2976b8a315",
+    "Motion/CanonicalKeyframesV1/frames/frieren/pack-3.png": "5318f6c2c6f641f8cdee160a90b0dbb666913584dd73f69a738d430cf264f767",
+    "Motion/CanonicalKeyframesV1/frames/frieren/notice-0.png": "670afcd054a828df71e66346ee7584cf1d2ef6cd992c6fcfd9a073bf1e8c8e94",
+    "Motion/CanonicalKeyframesV1/frames/frieren/notice-1.png": "0dc63013082c8e66adb6f79c726160a794cff7dafc4565a7183455fbd946783f",
+    "Motion/CanonicalKeyframesV1/frames/frieren/notice-2.png": "064ca87e3ff1e2cc2995fb17f71ed9e3aa59003565106ab3a5a8d7f74988b61d",
+    "Motion/CanonicalKeyframesV1/frames/frieren/notice-3.png": "2a87b74ad3240b6c49c709defe9a1fd2319151e6dcf6a892aa3a7b0d90bdc701",
+    "Motion/CanonicalKeyframesV1/frames/frieren/doze-0.png": "6caf945a00dd8675d7a06b6358bfa32f2c84f85e2071e39ce6904660e249a82b",
+    "Motion/CanonicalKeyframesV1/frames/frieren/doze-1.png": "04856843399b15fbd17e2f3d954c676a644ed102999c5d499e57bb50a306ad8e",
+    "Motion/CanonicalKeyframesV1/frames/frieren/doze-2.png": "7f32942765a93d7ec6018ed5ec6695468628b339af096c4e881ca83020626648",
+    "Motion/CanonicalKeyframesV1/frames/frieren/doze-3.png": "3987a418c72f82b7840cfaddce94823dc321fd426abd3bc16c43b949713732a7",
+    "Motion/CanonicalKeyframesV1/frames/himmel/cape-0.png": "a908534a3f6692c10384b1df6e14befc2809421e4bdb86fd3316413f070c871b",
+    "Motion/CanonicalKeyframesV1/frames/himmel/cape-1.png": "e184b2ebeb76b79b534e68cd8fc9625f915935aa543d0bf322a4ebf698c5e5ec",
+    "Motion/CanonicalKeyframesV1/frames/himmel/cape-2.png": "f85335569134006d59e3ba32bdc85450f27f166b0bb5c5c1915f9c4d797e7fb1",
+    "Motion/CanonicalKeyframesV1/frames/himmel/cape-3.png": "f2b6a269df94308081ac48126f671dc625601448a2a54176ae8f556e5bd39d7f",
+    "Motion/CanonicalKeyframesV1/frames/himmel/swordcheck-0.png": "e3b8c268e74e6ac33268d3dd93cdd5e3b3778e3a5d950971b6614cf5e3f43b2d",
+    "Motion/CanonicalKeyframesV1/frames/himmel/swordcheck-1.png": "4d55955f72a872db204a4d03fb9b3d1d5adbf4db1d386dd85fb090b9cb99237c",
+    "Motion/CanonicalKeyframesV1/frames/himmel/swordcheck-2.png": "f74c4f8a2f609cedcafe6261659ee7bc4449052321dcb7e774701655f1ac580f",
+    "Motion/CanonicalKeyframesV1/frames/himmel/swordcheck-3.png": "fadbad06e780691356d6280e1408fac252a5ca77f726ed03a2b52420bc8d42ca",
+    "Motion/CanonicalKeyframesV1/frames/himmel/practice-0.png": "064d6cba5912a367b85d577758697a4540288b380a469bf50e59d44aa200cb18",
+    "Motion/CanonicalKeyframesV1/frames/himmel/practice-1.png": "913911a1665a38a228708879beaa3a0f06edb34f214e48b95eae488f6f8bb056",
+    "Motion/CanonicalKeyframesV1/frames/himmel/practice-2.png": "fdbe7159a08e1206c44a3bd4b9dbc761b13486d3bb2bfae71b1aa3f7938ee622",
+    "Motion/CanonicalKeyframesV1/frames/himmel/practice-3.png": "b69ef4ad39e2f955362ce8e85f7bf8a0ffada66d93663238a019a184a3b74b2f",
+    "Motion/CanonicalKeyframesV1/frames/himmel/hero-0.png": "7de980b9ae55464223fa15c7bda229f3b7a4bc321bd159c3954431d0ca62b148",
+    "Motion/CanonicalKeyframesV1/frames/himmel/hero-1.png": "45e225a6ce52a18567bb60a832091f74cfd31739a64f1fb5ac728fa770d89273",
+    "Motion/CanonicalKeyframesV1/frames/himmel/hero-2.png": "991085d78e887f4c36e9c8840fd977e17f66cb469729c161fcba44948d5aed20",
+    "Motion/CanonicalKeyframesV1/frames/himmel/hero-3.png": "a09b861634bdcb2271ae95c8fffc76846ad2931c06d98b629aef3e8c7583965a",
+    "Motion/CanonicalKeyframesV1/frames/himmel/read-0.png": "742494a1fb0e7de5af9e884c83aa895cbc80f5eca653de0602edccfb6bbf1b96",
+    "Motion/CanonicalKeyframesV1/frames/himmel/read-1.png": "d2cd5af62d68fd56f4ce5dd0c12ce73b4e4a3fca0e989397134f22c5d2e918a5",
+    "Motion/CanonicalKeyframesV1/frames/himmel/read-2.png": "2b139a6831a4f1829aef8f3e620ed7bb705e66ea622b6c98978f55b847f26e4d",
+    "Motion/CanonicalKeyframesV1/frames/himmel/read-3.png": "f6d299056cb1c13449f18906684a2a5a052523749c2fb0290c9634c5a1eb5c5d",
+    "Motion/CanonicalKeyframesV1/frames/himmel/rest-0.png": "2489c06d26a466982e8b571110bb012cd20fdd771f7bb697d4823d1b651781e4",
+    "Motion/CanonicalKeyframesV1/frames/himmel/rest-1.png": "764ecce1e2a352226f91d5d74c052f8a66f57f207263652093083b9ec01df9b4",
+    "Motion/CanonicalKeyframesV1/frames/himmel/rest-2.png": "49924787d1047d19107e3a42573fd7be28fa30c4ae5aef13f38fab5a5c8a680e",
+    "Motion/CanonicalKeyframesV1/frames/himmel/rest-3.png": "2caf11242b2546566c5a2d21f81fabccf22888343dc2cb2c35ba4a8d9000035b",
+    "Motion/CanonicalKeyframesV1/frames/himmel/look-0.png": "df0e2e5d08c2c340d143bc4ec25e8205825fd31a5b95bad8f93e04c16bdd49a2",
+    "Motion/CanonicalKeyframesV1/frames/himmel/look-1.png": "5574c3a3292e6817feb25c410dd632d6c2873ab3afab5711bb52ad491d2d8e19",
+    "Motion/CanonicalKeyframesV1/frames/himmel/look-2.png": "a08bf3dd40173f69cbd6bab5241c54882bf358bbed2daa8d4a0056efd195bbf6",
+    "Motion/CanonicalKeyframesV1/frames/himmel/look-3.png": "388544c1aff2be02c6f9461413072f20677c0257d2d8f71598046729da2c021d",
+    "Motion/CanonicalKeyframesV1/frames/himmel/point-0.png": "720a960ea1e50ea110c269c1b6d501bf3b4cceb8caed22d2ca10b934c77a37fd",
+    "Motion/CanonicalKeyframesV1/frames/himmel/point-1.png": "cb7a01c776da4759d3ca9941dd964869cab91808dbee58ab2a0627e32cd11865",
+    "Motion/CanonicalKeyframesV1/frames/himmel/point-2.png": "c2b429bde30be892adfa66c648d0bdeb19b9da93fb5bd584dd7a3002a62f0c68",
+    "Motion/CanonicalKeyframesV1/frames/himmel/point-3.png": "8d061b098ad458b9151e5dde00de3e6610e99e0fca01117ab4ea462aa7ef7a01"
+  }
+}

@@ -1,0 +1,26 @@
+Create one complete 4-column × 2-row full-body keyframe sheet, 1536×1024 pixels, each 384×512 cell, using the attached reference images as follows:
+- The existing sit-stretch sheet is the main sprite scale/layout reference. Use its seated reading cells for Frieren's seated proportions, stool size and position, open book, and visual style. Do not copy its stretch poses.
+- Production neutral is the standing-pose, face, outfit, and closed-book reference.
+- Production notice is only the face/head-turn reference; do not copy its raised hand or change the body pose.
+- Production doze and wake are only sleepy/just-awakened facial-expression and head-angle references. Do not copy the staff, wand, lighting, background, or any extra props.
+
+TOP ROW, four distinct standing notice/look-over-shoulder intermediate poses:
+1. Nearly neutral, eyes glance toward screen-right, body front-facing, same closed book tucked against screen-left side, same free hand near waist.
+2. Eyes remain screen-right; head begins a small natural turn toward screen-right, body, arms, and closed book remain essentially fixed.
+3. Clear three-quarter head turn toward screen-right, eyes looking that way; body and arms remain front-facing and the same closed book stays in exactly the same screen-left hold.
+4. Hold the rightward look with a slight, natural partial glance back toward viewer while still oriented screen-right; do not reset to neutral. Keep body, hands, and book in their same standing poses.
+
+BOTTOM ROW, four distinct seated reading / dozing / waking poses:
+1. Seated upright on one fixed wooden stool, legs bent naturally, both boots planted at the floor baseline, reading the same single open brown book on her lap; eyes calmly on the page.
+2. Same seated pose and stool placement, eyelids drooping and head lowering slightly toward the open book.
+3. A deeper sleepy nod toward the open book, eyes fully closed; only a modest forward head/neck lean, with the same head size and body proportions.
+4. She lifts her head slightly from the nod and is just waking, eyes half-open and sleepy, gaze returning toward the open book. Keep the book open in the same hands and lap position.
+
+Character continuity and scale are critical: adult Frieren with the same recognizable face, pale lavender twin-tail hair, pointed ears, red earrings, white-and-gold outfit, striped shirt, dark leggings, and tan boots. Maintain the physical head size at about 75 px in a standing figure about 500 px tall. Seated heads must have the same physical size as standing heads; their lower head position comes from sitting, not from enlarging the head or stretching the torso. Keep original leg length and natural bent-knee shape. Do not fit every pose to the same bounding-box height.
+
+Every cell contains exactly one complete character, two arms, two hands, and two legs; no limb or hair crosses into another cell. Top-row feet and bottom-row boot soles align on the same world floor baseline around y=500. For the seated row, stool size, seat height, x-position, orientation, and floor position are identical in all four cells; the seated legs and feet remain consistent. One stool per seated cell, no stool in standing cells. One closed book in the top row and one open book in the bottom row; no duplicate book or props.
+
+Use a perfectly flat, opaque #FF00FF magenta background across the entire canvas. No shadows, glow, ground plane, text, numbers, borders, grid lines, magic effects, extra objects, cropping, or overlap. The eight poses must be clearly different in the specified facial/head progression while preserving each row's body pose and character proportions. Keep the 4×2 sheet evenly organized with full characters centered in each 384×512 cell.
+
+
+Final targeted edit to the initial generated sheet: change only the four top-row standing figures by uniformly scaling each whole figure (hair/head/body/arms/book/legs/boots together) just enough to fit fully inside its 384×512 cell. Place hair tops around y=10–15 and boot soles around y=500, leaving a clear gap above the y=512 row boundary. Keep head size/proportion about 70–75 px and preserve anatomy; do not shrink heads separately, shorten legs, stretch torsos, crop, or alter the four notice poses. Keep lower-row seated reading/doze/wake contents unchanged, including open book, hands, bent legs, boots, and fixed stools. Preserve 1536×1024 canvas, 4×2 layout, flat opaque #FF00FF background, and ensure no content crosses cells.

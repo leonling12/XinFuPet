@@ -1,0 +1,21 @@
+Create one 1536×1024 full-body keyframe sheet arranged as exactly 4 columns × 2 rows. Each cell is 384×512. Use the attached Himmel sit-kneel v2 only as the accepted physical head-size/proportion and sprite-scale reference; use production neutral for the standing baseline and sword design, swordcheck for the inspection/draw start, swordpractice for restrained two-handed practice motion, and hero for the final heroic pose.
+
+Character continuity: adult Himmel, about 7.5 heads tall, same blue hair and eyes, face, cream cape with silver clasp, royal-blue tunic, white trousers, dark boots, and ornate blue-steel sword with gold guard and blue jewel. Hair-top to chin is about 68 px in a standing figure about 500 px tall. Preserve the same real head size, leg length, cape length, body proportions, and floor position across all eight poses. The feet stay on one shared world baseline around y=500; no pose is scaled down just because the sword is raised. Every full character and weapon stays inside its own cell.
+
+TOP ROW — four distinct, restrained H05 sword-check/practice poses:
+1. Upright inspection-ready stance, eyes looking down at the sword. One hand checks the hilt while the other steadies the scabbard at the waist; sword is still sheathed and clearly present.
+2. Drawn sword held securely in both hands and raised diagonally upward in a controlled guard. The full blade is visible and angled naturally; tip stays within this cell.
+3. A small, controlled practice swing/recovery across the front of the body, blade at a different diagonal from pose 2. Feet remain planted and torso motion is modest; this is practice, not combat.
+4. End of the sword motion: settle into a steady lowered diagonal guard near the body, sword still clearly held and fully visible, relaxed controlled posture.
+
+For every top-row pose keep the sword entirely inside its 384 px cell. Use a believable diagonal and slight natural foreshortening if needed; never crop or shorten the sword, and never let it cross a cell boundary. The scabbard stays at the waist when the blade is drawn. The sword must not vanish between frames.
+
+BOTTOM ROW — four distinct H07 hero-stance transition poses:
+1. Begin from an upright neutral stance with sword present; lift the chest and turn the torso just a little.
+2. The free hand moves toward the waist/hip as the sword settles at his side.
+3. Clear, confident hero stance matching the hero reference: chest open, chin slightly raised, one hand on hip, the other holding the sword upright beside him.
+4. A subtle settled hero hold, with a small natural weight-settle and calm confident expression; retain the same hand-on-hip and sword placement.
+
+Exactly two arms, two hands, and two legs in every cell. Hands must connect naturally to the correct sword or waist; no extra fingers, third arms, merged limbs, or floating sword. Keep the white cape clasp centered and outfit details stable. No exaggerated combat, punching, running, magic, effects, duplicated sword, or extra prop.
+
+Use a flat, opaque pure #FF00FF key background. No shadows, glow, floor, text, labels, grid lines, borders, or decorations. Center each complete figure in its cell with enough margin that hair, cape, hands, sword, and boots do not enter another cell.

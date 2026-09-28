@@ -1,0 +1,23 @@
+Create one clean animation source sheet for a desktop character sprite, using the four attached images only as visual references.
+
+Canvas and layout: exact landscape 1536×1024 pixels, four equal columns by two equal rows, each cell 384×512. One complete Frieren full-body drawing centered in each cell; no pose crosses a cell boundary. Use a perfectly flat, uniform RGB #FF00FF background in every cell, with no transparency, gradient, texture, cast shadow, contact shadow, glow, aura, floor, scenery, borders, gridlines, labels, numbers, text, or watermark. Leave a small clean margin around every silhouette; boots and hair must remain fully inside their cells.
+
+Reference roles: Image 1 is the canonical standing identity, scale, costume, and neutral full-body proportion reference. Image 2 is the early seated pose and wooden stool reference. Image 3 is the seated open-book endpoint and stool reference. Image 4 is the stretch endpoint and arm-shape reference. Keep Frieren recognizable and consistent with the references: pale face, turquoise eyes, long silver-lavender hair, long pointed ears, red drop earrings, white robe with gold edging, black leggings, tan-brown boots. Preserve the same linework and cel-shaded colors. Do not add accessories or change the costume.
+
+Proportion and registration: every cell uses the same camera, character scale, and horizontal centerline. Match Image 1's roughly 6.6-head-tall standing proportions; the robe hem-to-sole length is about 39% of standing full height. Keep head, torso, arms, legs, boots, and facial features at the same physical size across all frames. Never resize or independently bbox-fit a pose to fill its cell. Keep the boot soles on a shared baseline near local y=500 in all eight cells. During the sitting sequence, the head and hips must move naturally downward as knees bend while the feet stay grounded; do not lengthen the torso or shrink the head to preserve the standing silhouette height.
+
+Prop continuity: use only the plain wooden stool already present in Images 2 and 3. In all eight cells it has the same design, size, orientation, and local x/y position, placed behind Frieren at sitting distance. It is already present before she starts lowering. In the bottom row, one closed brown book rests flat with visible contact on the stool seat in all four cells; it does not float, glow, or multiply. In the top row the book transitions naturally from closed in her hands to open in both hands by the seated endpoint. Show exactly two arms and two legs, with natural hands and no duplicated limbs.
+
+Top row, left to right — sit down into reading, four distinct full-body in-between drawings:
+1. Nearly the Image 1 standing pose, with a subtle knee bend and the closed book still held; the stool is already behind her.
+2. She bends her knees further and lowers her hips toward the fixed stool, torso leaning slightly forward; keep the book held securely.
+3. The back of her legs and hips make clear contact with the stool seat; her body is lower, knees bent, and the book is opening as it settles toward her lap.
+4. A stable seated pose that matches Image 3: Frieren sits on the stool and holds the open book naturally with both hands. This is the seated endpoint, not an enlarged or cropped pose.
+
+Bottom row, left to right — put the closed book down, then stretch, four distinct full-body drawings:
+5. Standing with the closed book already resting flat on the stool seat, both hands free and beginning to rise from chest level.
+6. Both arms lift to shoulder height in a natural continuation; elbows are still gently bent.
+7. Both hands meet and clasp above her forehead; shoulders and elbows continue upward.
+8. Both hands remain clasped and reach above the head in a complete overhead stretch, matching Image 4's endpoint intent while keeping both boots grounded.
+
+Make all eight poses meaningfully different, cleanly readable as sequential full-body keyframes, anatomically sound, and stylistically consistent. No skeletal cutouts, detached body parts, body warping, morphing, duplicate hands, action marks, motion blur, or transition effects.

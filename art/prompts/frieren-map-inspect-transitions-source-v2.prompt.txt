@@ -1,0 +1,7 @@
+Edit the attached 8-cell sprite source sheet. It is the edit target. Make only the targeted prop correction in the top row; preserve the rest of the image.
+
+Keep the exact 1536×1024 canvas, four-column × two-row layout, cell framing, flat uniform #FF00FF background, and existing colors. In each of the four top-row cells, show exactly one closed brown book, consistently tucked against the character's screen-left ribs. Keep the single book seen on screen-left in the first top cell as the book-design reference. Where a brown book/spine edge appears on screen-right in the top row, remove that duplicate completely; continue the underlying hair, robe, hands, map, or flat magenta background naturally. Do not leave brown slivers, second spines, or book-like rectangles on screen-right.
+
+Keep the same one book in the same screen-left position and scale through all top-row cells. The book is held securely between the screen-left upper arm and ribs; Frieren still has exactly two arms and both hands continue holding/opening the map naturally. Preserve the original hand positions and the parchment map. Do not add a hand to hold the book and do not cover either map-gripping hand.
+
+Leave the entire bottom row unchanged: retain its existing one book at the waist, the single pebble, both hands, body positions, clothing, face, hair, legs, boots, and background. Do not alter the character's scale or proportions, any pose, any other prop, any map, or any costume detail. No shadows, effects, labels, extra objects, gridlines, or text.

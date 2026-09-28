@@ -1,0 +1,178 @@
+{
+  "asset": "Frieren F13 stretch frames",
+  "review_status": "visual_review_passed",
+  "source_sheet": {
+    "path": "art/source-sheets/frieren-stretch-source-v2.png",
+    "sha256": "59c3bbd81df39dc2873c978b312c62cea46196febdc5bda882153e57df89c934"
+  },
+  "prompt": {
+    "path": "art/prompts/frieren-stretch-source-v2.prompt.txt",
+    "sha256": "f60bec3c8f3af84cc6a0fd2efba39bd9fe2ee72f45891fa722bd2675e3218e56"
+  },
+  "source_grid": {
+    "columns": 4,
+    "rows": 1,
+    "slot_px": [
+      384,
+      1024
+    ],
+    "order": "left-to-right; cells 0–3"
+  },
+  "reference_inputs": [
+    {
+      "path": "verification/runtime-resource-allowlist.json → Characters/Frieren/production_neutral.png",
+      "sha256": "91618bfe4f57375d0d08dba294b30c81326b111a688c14fd7636e5838aa8ab19"
+    },
+    {
+      "path": "art/source-sheets/frieren-sit-stretch-transitions-source.png",
+      "sha256": "e5a59672a117a333d79ff69f907b02985cfbac5fc7331bbc2701fae6348e503e"
+    }
+  ],
+  "registration": {
+    "source_key_hex": "#FF00FF",
+    "source_key_euclidean_threshold": 96.0,
+    "manual_source_hair_top_y_approx_px": 158.0,
+    "manual_source_sole_y_approx_px": 974.0,
+    "manual_body_height_px": 816.0,
+    "uniform_source_scale": 0.6004901960784313,
+    "same_scale_for_all_frames": true,
+    "per_frame_fit_or_recenter": false,
+    "fixed_translation_px": [
+      142,
+      84
+    ],
+    "canvas_px": [
+      512,
+      704
+    ],
+    "native_canonical_body_height_px": 490.0,
+    "fixed_foot_y_px": 672,
+    "torso_root_x_px": 266.0,
+    "torso_root_basis": "manual frame-0 waist/belt spine center after common source scale"
+  },
+  "frames": [
+    {
+      "file": "stretch-0.png",
+      "sha256": "fbb6b831d9f44fd20f0a27a7008b8ce7ca014211233178839839d844324df177",
+      "source_cell_zero_based": 0,
+      "source_crop_px": [
+        0,
+        0,
+        384,
+        1024
+      ],
+      "extra_right_crop_px": 0,
+      "removed_neighbor_components_px": [],
+      "output_alpha_bbox_px": [
+        155,
+        176,
+        351,
+        672
+      ],
+      "foreground_component_count": 1,
+      "alpha_preserved": true,
+      "edge_cleanup": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1
+      }
+    },
+    {
+      "file": "stretch-1.png",
+      "sha256": "903f01495d144dbf1839badcd13bafc68174091af23dd7d001ac1616cc219fd4",
+      "source_cell_zero_based": 1,
+      "source_crop_px": [
+        384,
+        0,
+        772,
+        1024
+      ],
+      "extra_right_crop_px": 4,
+      "removed_neighbor_components_px": [],
+      "output_alpha_bbox_px": [
+        153,
+        176,
+        375,
+        672
+      ],
+      "foreground_component_count": 1,
+      "alpha_preserved": true,
+      "edge_cleanup": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1
+      }
+    },
+    {
+      "file": "stretch-2.png",
+      "sha256": "c1555a8587be7c896223798bffdc4734927b1b3650a073ade2d6c3a1009966a6",
+      "source_cell_zero_based": 2,
+      "source_crop_px": [
+        768,
+        0,
+        1152,
+        1024
+      ],
+      "extra_right_crop_px": 0,
+      "removed_neighbor_components_px": [
+        {
+          "bboxSourceCellPx": [
+            0,
+            294,
+            2,
+            313
+          ],
+          "areaPx": 31,
+          "reason": "exact adjacent-cell orange sleeve fragment; retained only with preceding frame1 expanded crop"
+        }
+      ],
+      "output_alpha_bbox_px": [
+        152,
+        114,
+        348,
+        672
+      ],
+      "foreground_component_count": 1,
+      "alpha_preserved": true,
+      "edge_cleanup": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1
+      }
+    },
+    {
+      "file": "stretch-3.png",
+      "sha256": "5ff5a8c960eecd69562fe179d2ccee37a4b34e8dbf517e453b4ed966b08f203d",
+      "source_cell_zero_based": 3,
+      "source_crop_px": [
+        1152,
+        0,
+        1536,
+        1024
+      ],
+      "extra_right_crop_px": 0,
+      "removed_neighbor_components_px": [],
+      "output_alpha_bbox_px": [
+        153,
+        122,
+        349,
+        672
+      ],
+      "foreground_component_count": 1,
+      "alpha_preserved": true,
+      "edge_cleanup": {
+        "algorithm": "edge-local-chroma-spill-suppression",
+        "strength": 1,
+        "edge_radius": 5,
+        "spill_tolerance": 0.15,
+        "minimum_saturation": 0.1
+      }
+    }
+  ]
+}

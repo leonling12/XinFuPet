@@ -1,0 +1,18 @@
+Create one 1536×1024 RGB keyframe source sheet, exactly 4 columns × 2 rows, each cell 384×512, using the attached original production neutral/read/rest images and the accepted Himmel sit-kneel v2 only as the physical head/body scale reference.
+
+Character: adult Himmel, same blue hair and eyes, face, cream cape and silver clasp, royal-blue tunic, white trousers, dark boots, and one ornate blue-steel sword with gold guard and blue jewel in its sheath. Keep the sword at the same screen-right hip position in every cell; do not draw, duplicate, move, or make it disappear. Full standing height about 500 px with hair-top-to-chin about 68 px. Preserve identical real head size, leg length, adult proportions, cape length, floor baseline, and root axis across all poses. Boots land around y=500. Small head/eye/shoulder changes must come from real pose changes, never resizing or per-pose bbox fitting.
+
+TOP ROW — four clear H read keyframes using exactly one small open brown notebook with gold details:
+1. Standing upright and beginning to open the small notebook at chest height. One hand holds the spine/lower edge while the other opens the cover. Eyes begin moving toward the pages.
+2. Notebook fully open, both hands naturally support its two sides, gaze directed to the contents.
+3. A real page-turn moment: one hand pinches and turns a single page corner while the other supports the notebook; the book remains open and the face stays visible.
+4. Page turn completed; he continues reading the same open notebook with both hands settled into a natural hold.
+Do not add a second book, loose pages, floating pages, pen, or extra hand. Sword remains sheathed at the same hip, even if partly behind the notebook or cape.
+
+BOTTOM ROW — four distinct relaxed-standing H rest poses, no notebook:
+1. Still standing, shoulders lower and relax, arms settle into a calm natural resting position. Feet remain planted; sword stays sheathed at same hip.
+2. Without stepping or turning the torso, eyes glance toward screen-left as if noticing Frieren; at most a very small natural head turn.
+3. Brief quiet rest with eyes closed and a slight relaxed chin dip. Maintain upright standing balance and same hand/feet/sword positions.
+4. Eyes reopen into a calm rested look, head returns slightly toward front; keep relaxed shoulders and the same planted stance and sword position.
+
+Every cell contains one complete full-body character with exactly two arms, two hands, and two legs. Hands connect naturally to the notebook or rest at the body; no extra limbs or malformed fingers. All hair, cape, notebook, sword, and boots stay entirely inside their own 384×512 cell. No stool, scene objects, shadow, glow, ground, text, labels, grid lines, borders, or effects. Use a perfectly flat opaque pure #FF00FF background. Keep all eight poses clearly distinguishable while preserving the same body scale and clothing details.
